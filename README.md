@@ -1,2 +1,2 @@
 # 22BQ1A1242
-Frontend application
+# URL Shortener (NO Login is required)
